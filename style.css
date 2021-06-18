@@ -1,0 +1,13 @@
+h1 {
+  color: rgb(0, 255, 42);
+}
+/** {
+  border: solid;
+}*/
+
+.header {
+  justify-content: space-between;
+}
+.Origami {
+  justify-content: space-evenly;
+}
